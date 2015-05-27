@@ -1,7 +1,4 @@
-#! /usr/bin/env python
-# -*- coding: utf-8 -*-
-
-# Should be compatible Python >= 2.6 and 3.x
+#! /usr/bin/env python3
 
 import datetime
 from OpenSSL.crypto import load_crl
